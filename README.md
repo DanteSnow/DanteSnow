@@ -5,8 +5,8 @@
 
 
 ### 🤙 Contact me anytime
-- 📌 clydehan0401@gmail.com
-- 📌 [@clydehan](https://velog.io/@clydehan/posts)
+📌 clydehan0401@gmail.com
+📌 [@clydehan](https://velog.io/@clydehan/posts)
 
 
 
