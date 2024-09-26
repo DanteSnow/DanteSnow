@@ -29,7 +29,9 @@
 
 <br>
 
-<h3 align="center">CONTACT</h3>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=00EE2D&center=true&vCenter=true&width=435&lines=CONTACT" alt="Typing SVG" />
+</div>
 <div align="center">
 <a href="https://velog.io/@clydehan">
 <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
