@@ -6,11 +6,11 @@
 
 <h3 align="center">CONTACT</h3>
 <div align="center">
-<a href="https://velog.io/@clydehan" target="_blank">
+<a href="https://velog.io/@clydehan">
 <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
 
-<a href="mailto:clydehan0401@gmail.com" target="_blank">
+<a href="mailto:clydehan0401@gmail.com">
 <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
