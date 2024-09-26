@@ -31,7 +31,7 @@
 <div align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" />
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" />
 </div>
 
