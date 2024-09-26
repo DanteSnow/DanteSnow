@@ -21,15 +21,18 @@
 
 <div align="center">
 <h3 align="center">TECH</h3>
+  <div>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" />
-
+</div>
+  <div>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components2.svg" />
+      <div>
 </div>
 
 </div>
