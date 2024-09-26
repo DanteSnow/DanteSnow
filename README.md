@@ -34,5 +34,5 @@
 
 <br>
 
-![Clyde Han](https://github-readme-stats.vercel.app/api?username=DanteSnow&show_icons=true&theme=radical)
-![Clyde Han](https://github-readme-stats.vercel.app/api/top-langs/?username=DanteSnow&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api?username=DanteSnow&show_icons=true&theme=radical" />
