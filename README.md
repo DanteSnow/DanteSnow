@@ -10,7 +10,7 @@
 
 <br>
 
-<h3 align="center">✨TECHNOLOGY✨</h3>
+<h3 align="center">✨ TECHNOLOGY ✨</h3>
 <div align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" />
@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="center">✨CONTACT✨</h3>
+<h3 align="center">✨ CONTACT ✨</h3>
 <div align="center">
 <a href="https://velog.io/@clydehan">
 <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
