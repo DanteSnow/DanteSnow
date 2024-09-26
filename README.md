@@ -2,9 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=00E94B&width=435&separator=%3C&lines=console.log(%22Hello%2C+world!%22);)](https://git.io/typing-svg)
 
-
-
-
+<br>
 
 <div align="center">
   <h3 align="center">CONTACT</h3>
@@ -17,7 +15,7 @@
   </a>
 </div>
 
-
+<br>
 
 <div align="center">
 <h3 align="center">TECH</h3>
@@ -27,6 +25,9 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" />
 </div>
+
+  <br>
+  
   <div>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" />
