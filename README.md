@@ -4,9 +4,9 @@
 
 
 
-### 🤙 Contact me anytime
-📌 clydehan0401@gmail.com
-📌 [@clydehan](https://velog.io/@clydehan/posts)
+### 📞 Contact me anytime 📞
+clydehan0401@gmail.com
+[@clydehan](https://velog.io/@clydehan/posts)
 
 
 
@@ -16,6 +16,8 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" />
 </div>
+
+
 
 <div align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" />
