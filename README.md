@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1500&pause=1000&color=00EE2D&center=true&vCenter=true&width=435&lines=TECHNOLOGY" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1500&pause=3000&color=00EE2D&center=true&vCenter=true&width=435&lines=TECHNOLOGY" alt="Typing SVG" />
 </div>
 <div align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1500&pause=1000&color=00EE2D&center=true&vCenter=true&width=435&lines=CONTACT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1500&pause=3000&color=00EE2D&center=true&vCenter=true&width=435&lines=CONTACT" alt="Typing SVG" />
 </div>
 <div align="center">
 <a href="https://velog.io/@clydehan">
