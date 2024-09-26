@@ -4,8 +4,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00EE2D&center=true&vCenter=true&width=435&separator=%3C&lines=console.log(%22Hello%2C+world!%22);" alt="Typing SVG" />
 </a>
 
-<br>
-<br>
+<div></div>
+<div></div>
+<div></div>
 
 <h3 align="center">CONTACT</h3>
 <a href="https://velog.io/@clydehan">
