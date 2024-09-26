@@ -32,7 +32,7 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" />
 <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" />
+<img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC" />
 </div>
 
 <div align="center">
