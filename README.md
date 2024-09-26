@@ -36,8 +36,8 @@
 </div>
 
 <div align="center">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components2.svg" />
+<img src="https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-NextJS-000?&logo=nextdotjs&logoColor=000000" />
+<img src="https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/-styled-components-000?&logo=styledcomponents&logoColor=DB7093" />
 </div>
