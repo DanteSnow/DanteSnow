@@ -6,7 +6,7 @@
 
 <h3 align="center">CONTACT</h3>
 <div align="center">
-<a href="https://velog.io/@clydehan">
+<a href="https://velog.io/@clydehan" target="_blank">
 <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
 
