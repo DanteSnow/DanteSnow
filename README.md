@@ -27,7 +27,6 @@
 <br>
 
 <div align="center">
-<div>
 <a href="https://velog.io/@clydehan">
 <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/-Velog-000?&logo=velog&logoColor=20C997" /> -->
@@ -37,5 +36,4 @@
 <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/-gmail-000?&logo=gmail&logoColor=EA4335" /> -->
 </a>
-</div>
 </div>
